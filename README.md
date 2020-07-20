@@ -1,6 +1,6 @@
 ### Hello, I'm Kevin 👋🏾 😄👨‍💻
 
-![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=lordvins226&show_icons=true&theme=onedark&hide=["stars"])
+![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=lordvins226&show_icons=true&theme=dark&hide=["stars"])
 <!--
 **lordvins226/lordvins226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
