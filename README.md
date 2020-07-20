@@ -1,4 +1,4 @@
-### Hi there 👋
+### # Hello, I'm Kevin 👋🏾 😄👨‍💻
 
 <!--
 **lordvins226/lordvins226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
