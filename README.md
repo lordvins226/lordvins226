@@ -1,6 +1,6 @@
 ### Hello, I'm Kevin 👋🏾 😄👨‍💻
 
-![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=lordvins226&show_icons=true&theme=tokyonight&hide=["stars"])
+![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=lordvins226&show_icons=true&theme=tokyonight)
 
 - 🔭 I’m currently working on Flutter, Angular, AR/VR
 - 🌱 I’m currently learning Hyperledger Fabric, Solidity
