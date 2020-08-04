@@ -4,13 +4,14 @@
 
 - 🔭 I’m currently working on Flutter, Angular, AR/VR
 - 🌱 I’m currently learning Hyperledger Fabric, Solidity
+- 👯 I’m looking to collaborate on Blockchain projects, AR/VR Projects and Open Source 
 <!--
 **lordvins226/lordvins226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 
-- 👯 I’m looking to collaborate on ...
+
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
