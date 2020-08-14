@@ -1,6 +1,6 @@
 <img src="https://github.com/lordvins226/lordvins226/blob/master/assets/animation1.gif" width="150" height="150">
 
-## Hello, I'm Kevin 😄 
+## Hello, I'm Kevin Wilfried 😄 
 > I am enthusiastic about mobile development and Blockchain.
 > I want to make people life better using tech.
 > A computer systems and network student interested
