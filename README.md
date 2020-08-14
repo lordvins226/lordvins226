@@ -4,7 +4,7 @@
 
 ## Hello, I'm Kevin 😄 
 > I am enthusiastic about mobile development and Blockchain.
-> I want to make africains life better using tech.
+> I want to make people life better using tech.
 > A computer systems and network student interested
 > in challenges which require designing solutions that can make
 > a significant impact in people lives like blockchain and DApps.
