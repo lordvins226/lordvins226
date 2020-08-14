@@ -9,11 +9,8 @@
 - 🔭 I’m currently working on Flutter, Angular, AR/VR
 - 🌱 I’m currently learning Hyperledger Fabric, Solidity
 - 👯 I’m looking to collaborate on Blockchain projects, AR/VR Projects and Open Source
-
-<img src="https://github.com/lordvins226/lordvins226/blob/master/assets/flutter.svg" width="50" height="50">
-<img src="https://github.com/lordvins226/lordvins226/blob/master/assets/angular.svg" width="50" height="50">
-<img src="https://github.com/lordvins226/lordvins226/blob/master/assets/google-arcore.svg" width="50" height="50">
-<img src="https://github.com/lordvins226/lordvins226/blob/master/assets/solidity.svg" width="50" height="50">
+![Kevin's github stats]
+<img src="https://github.com/lordvins226/lordvins226/blob/master/assets/flutter.svg" width="50" height="50"><img src="https://github.com/lordvins226/lordvins226/blob/master/assets/angular.svg" width="50" height="50"><img src="https://github.com/lordvins226/lordvins226/blob/master/assets/google-arcore.svg" width="50" height="50"><img src="https://github.com/lordvins226/lordvins226/blob/master/assets/solidity.svg" width="50" height="50">
 
 
 <p >
