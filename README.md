@@ -10,6 +10,8 @@
 - 🌱 I’m currently learning Hyperledger Fabric, Solidity
 - 👯 I’m looking to collaborate on Blockchain projects, AR/VR Projects and Open Source
 
+<img src="https://github.com/lordvins226/lordvins226/blob/master/assets/flutter.svg" width="50" height="50">
+
 <p >
 <img src="https://github.com/lordvins226/lordvins226/blob/master/assets/animation2.gif" width="300" height="300">
 </p>
