@@ -1,5 +1,5 @@
 ### Hello, I'm Kevin 👋🏾 😄👨‍💻 <p >
-<img src="https://github.com/lordvins226/lordvins226/blob/master/assets/animation1.gif" width="50" height="50">
+<img src="https://github.com/lordvins226/lordvins226/blob/master/assets/animation1.gif" width="100" height="100">
 </p>
 
 ![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=lordvins226&show_icons=true&theme=tokyonight)
