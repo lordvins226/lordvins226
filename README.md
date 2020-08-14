@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on Blockchain projects, AR/VR Projects and Open Source
 
 <p align="center">
-<img src="https://github.com/lordvins226/lordvins226/edit/master/assets/animation_500_kduouk3x.gif" width="500" height="500">
+<img src="https://github.com/lordvins226/lordvins226/master/assets/animation_500_kduouk3x.gif" width="500" height="500">
 </p>
 
 <!--
