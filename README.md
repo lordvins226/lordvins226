@@ -1,5 +1,5 @@
 <p>
-  <img src="https://github.com/lordvins226/lordvins226/blob/master/assets/animation1.gif" width="75" height="75">
+  <img src="https://github.com/lordvins226/lordvins226/blob/master/assets/animation1.gif" width="125" height="125">
 </p>
 
 ### Hello, I'm Kevin 👋🏾 😄👨‍ 
