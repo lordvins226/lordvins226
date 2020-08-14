@@ -1,6 +1,4 @@
-<p>
-  <img src="https://github.com/lordvins226/lordvins226/blob/master/assets/animation1.gif" width="130" height="130">
-</p>
+<img src="https://github.com/lordvins226/lordvins226/blob/master/assets/animation1.gif" width="150" height="150">
 
 ## Hello, I'm Kevin 😄 
 > I am enthusiastic about mobile development and Blockchain.
