@@ -1,8 +1,8 @@
 <p>
-  <img src="https://github.com/lordvins226/lordvins226/blob/master/assets/animation1.gif" width="125" height="125">
+  <img src="https://github.com/lordvins226/lordvins226/blob/master/assets/animation1.gif" width="130" height="130">
 </p>
 
-### Hello, I'm Kevin 👋🏾 😄👨‍ 
+### Hello, I'm Kevin 😄 
 
 ![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=lordvins226&show_icons=true&theme=tokyonight)
 
