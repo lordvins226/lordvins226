@@ -1,4 +1,6 @@
-### Hello, I'm Kevin 👋🏾 😄👨‍💻
+### Hello, I'm Kevin 👋🏾 😄👨‍💻 <p >
+<img src="https://github.com/lordvins226/lordvins226/blob/master/assets/animation1.gif" width="50" height="50">
+</p>
 
 ![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=lordvins226&show_icons=true&theme=tokyonight)
 
@@ -7,7 +9,7 @@
 - 👯 I’m looking to collaborate on Blockchain projects, AR/VR Projects and Open Source
 
 <p >
-<img src="https://github.com/lordvins226/lordvins226/blob/master/assets/animation_500_kduouk3x.gif" width="350" height="350">
+<img src="https://github.com/lordvins226/lordvins226/blob/master/assets/animation2.gif" width="350" height="350">
 </p>
 
 <!--
