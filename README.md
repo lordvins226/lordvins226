@@ -24,11 +24,11 @@
 - 👯 I’m looking to collaborate on Blockchain projects, AR/VR Projects and Open Source
 
 <p>
-<img src="https://github.com/lordvins226/lordvins226/blob/master/assets/flutter.svg" width="45" height="45"><img src="https://github.com/lordvins226/lordvins226/blob/master/assets/angular.svg" width="45" height="45"><img src="https://github.com/lordvins226/lordvins226/blob/master/assets/google-arcore.svg" width="45" height="45"><img src="https://github.com/lordvins226/lordvins226/blob/master/assets/solidity.svg" width="45" height="45">
+<img src="https://github.com/lordvins226/lordvins226/blob/master/assets/flutter.svg" width="40" height="40"><img src="https://github.com/lordvins226/lordvins226/blob/master/assets/angular.svg" width="40" height="40"><img src="https://github.com/lordvins226/lordvins226/blob/master/assets/google-arcore.svg" width="40" height="40"><img src="https://github.com/lordvins226/lordvins226/blob/master/assets/solidity.svg" width="40" height="40">
 </p>
 
 <p>
-  <img src="https://github.com/lordvins226/lordvins226/blob/master/assets/animation2.gif" width="300" height="300">
+  <img src="https://github.com/lordvins226/lordvins226/blob/master/assets/animation2.gif" width="280" height="280">
 </p>
 
 <!--
