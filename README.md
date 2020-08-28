@@ -17,6 +17,7 @@
 > a significant impact in people lives like blockchain and DApps.
 
 ![Kevin's github stats](https://github-readme-stats.lordvins226.vercel.app/api?username=lordvins226&show_icons=true&theme=tokyonight)
+![Top Langs ](https://github-readme-stats.lordvins226.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)
 
 - 🔭 I’m currently working on Flutter, Angular, AR/VR
 - 🌱 I’m currently learning Hyperledger Fabric, Solidity
