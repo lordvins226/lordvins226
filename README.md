@@ -1,3 +1,5 @@
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
 <img src="https://github.com/lordvins226/lordvins226/blob/master/assets/animation1.gif" width="150" height="150">
 
 ## Hello, I'm Kevin Wilfried 😄 
