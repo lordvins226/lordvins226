@@ -1,6 +1,8 @@
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
-[![Tweeting](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/Kevine226)
+[![Twitter: Lordvins226](https://img.shields.io/twitter/follow/Lordvins226?style=social)](https://twitter.com/Kevine226)
+[![Linkedin: Lordvins226](https://img.shields.io/badge/-Lordvins226-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevin-ilboudo/)](https://www.linkedin.com/in/kevin-ilboudo/)
+[![GitHub Lordvins226](https://img.shields.io/github/followers/Lordvins226?label=follow&style=social)](https://github.com/lordvins226)
 
 <img src="https://github.com/lordvins226/lordvins226/blob/master/assets/animation1.gif" width="100" height="100">
 
