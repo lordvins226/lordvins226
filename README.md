@@ -10,7 +10,7 @@
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/lordvins226/)
  
 ## Hello, I'm Kevin Wilfried 😄 
-> I am enthusiastic about mobile development and Blockchain.
+> I am enthusiastic about mobile development, Blockchain, AR/VR and Gaming.
 > I want to make people life better using tech.
 > A computer systems and network student interested
 > in challenges which require designing solutions that can make
