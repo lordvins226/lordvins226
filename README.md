@@ -12,9 +12,9 @@
 ## Hello, I'm Kevin Wilfried 😄 
 > I am enthusiastic about mobile development, Blockchain, AR/VR and Gaming.
 > I want to make people life better using tech.
-> A computer systems and network student interested
+> Computer Science student interested
 > in challenges which require designing solutions that can make
-> a significant impact in people lives like blockchain and DApps.
+> a significant impact in people lives like blockchain and DApps, AR/VR...
 
 ![Kevin's github stats](https://github-readme-stats.lordvins226.vercel.app/api?username=lordvins226&show_icons=true&theme=tokyonight)
 ![Top Langs ](https://github-readme-stats.lordvins226.vercel.app/api/top-langs/?username=lordvins226&layout=compact&theme=tokyonight)
