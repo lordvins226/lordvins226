@@ -2,9 +2,9 @@
 
 <img src="https://github.com/lordvins226/lordvins226/blob/master/assets/animation1.gif" width="100" height="100">
 
-<p>[![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://github.com/lordvins226/)
-  [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/lordvins226/)
- </p> 
+[![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://github.com/lordvins226/)
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/lordvins226/)
+ 
 ## Hello, I'm Kevin Wilfried 😄 
 > I am enthusiastic about mobile development and Blockchain.
 > I want to make people life better using tech.
