@@ -26,6 +26,7 @@
 
 <p>
 <img src="https://github.com/lordvins226/lordvins226/blob/master/assets/flutter.svg" width="40" height="40"><img src="https://github.com/lordvins226/lordvins226/blob/master/assets/angular.svg" width="40" height="40"><img src="https://github.com/lordvins226/lordvins226/blob/master/assets/google-arcore.svg" width="40" height="40"><img src="https://github.com/lordvins226/lordvins226/blob/master/assets/solidity.svg" width="40" height="40">
+src="https://github.com/lordvins226/lordvins226/blob/master/assets/sparkar.png" width="40" height="40">
 </p>
 
 <p>
