@@ -7,7 +7,8 @@
 
 <img src="https://github.com/lordvins226/lordvins226/blob/master/assets/animation1.gif" width="100" height="100">
 
-[!Blob](https://github.com/lordvins226/lordvins226/blob/master/assets/blob.svg)
+
+<img src="https://github.com/lordvins226/lordvins226/blob/master/assets/blob.svg" width="100" height="100">
 
 
 [![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://github.com/lordvins226/)
