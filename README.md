@@ -17,8 +17,8 @@
 > in challenges which require designing solutions that can make
 > a significant impact in people lives like blockchain and DApps, AR/VR...
 
-![Kevin's github stats](https://github-readme-stats.lordvins226.vercel.app/api?username=lordvins226&show_icons=true&theme=tokyonight)
-![Top Langs ](https://github-readme-stats.lordvins226.vercel.app/api/top-langs/?username=lordvins226&layout=compact&theme=tokyonight)
+<!-- ![Kevin's github stats](https://github-readme-stats.lordvins226.vercel.app/api?username=lordvins226&show_icons=true&theme=tokyonight)
+![Top Langs ](https://github-readme-stats.lordvins226.vercel.app/api/top-langs/?username=lordvins226&layout=compact&theme=tokyonight) -->
 
 - 🔭 I’m currently working on Flutter, Angular, AR/VR
 - 🌱 I’m currently learning Hyperledger Fabric, Solidity
