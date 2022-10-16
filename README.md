@@ -11,17 +11,17 @@
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/lordvins226/)
  
 ## Hello, I'm Kevin Wilfried 😄 
-> I am enthusiastic about mobile development, Blockchain, AR/VR and Gaming.
+> I am enthusiastic about mobile development, Cloud ,Blockchain, AR/VR and Gaming.
 > I want to make people life better using tech.
-> Computer Science student interested
+> Full stack developer interested
 > in challenges which require designing solutions that can make
 > a significant impact in people lives like blockchain and DApps, AR/VR...
 
 <!-- ![Kevin's github stats](https://github-readme-stats.lordvins226.vercel.app/api?username=lordvins226&show_icons=true&theme=tokyonight)
 ![Top Langs ](https://github-readme-stats.lordvins226.vercel.app/api/top-langs/?username=lordvins226&layout=compact&theme=tokyonight) -->
 
-- 🔭 I’m currently working on Flutter, Angular, AR/VR
-- 🌱 I’m currently learning Hyperledger Fabric, Solidity
+- 🔭 I’m currently working on Flutter, React, React Native, Cloud, CyberSecurity
+- 🌱 I’m currently learning Hyperledger Fabric, DevOps 
 - 👯 I’m looking to collaborate on Blockchain projects, AR/VR Projects and Open Source
 
 <p>
