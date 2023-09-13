@@ -16,12 +16,6 @@
 - 👯 I’m looking to collaborate on Cyber Security, Cloud, Mobile Projects and Open Source
 
 <p>
-  <img src="https://github.com/lordvins226/lordvins226/blob/master/assets/flutter.svg" width="40" height="40">
-  <img src="https://github.com/lordvins226/lordvins226/blob/master/assets/solidity.svg" width="40" height="40">
-  <img src="https://github.com/lordvins226/lordvins226/blob/master/assets/sparkar.png" width="40" height="40">
-</p>
-
-<p>
   <img src="https://github.com/lordvins226/lordvins226/blob/master/assets/animation2.gif" width="280" height="280">
 </p>
 
