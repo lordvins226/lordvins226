@@ -1,11 +1,5 @@
 ![awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
-[![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
-[![Twitter: Lordvins226](https://img.shields.io/twitter/follow/Kevine226?style=social)](https://twitter.com/Kevine226)
 [![Linkedin: Lordvins226](https://img.shields.io/badge/-Lordvins226-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevin-ilboudo/)](https://www.linkedin.com/in/kevin-ilboudo/)
-[![GitHub Lordvins226](https://img.shields.io/github/followers/Lordvins226?label=follow&style=social)](https://github.com/lordvins226)
-
-<img src="https://github.com/lordvins226/lordvins226/blob/master/assets/animation1.gif" width="100" height="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/lordvins226/lordvins226/blob/master/assets/blob.svg" width="250" height="250">
 
 ## Hello, I'm Kevin Wilfried 😄 
 > I am enthusiastic about mobile development, Cloud ,Blockchain, AR/VR and Gaming.
@@ -18,8 +12,8 @@
 ![Top Langs ](https://github-readme-stats.lordvins226.vercel.app/api/top-langs/?username=lordvins226&layout=compact&theme=tokyonight) -->
 
 - 🔭 I’m currently working on Flutter, React, React Native, Cloud, CyberSecurity
-- 🌱 I’m currently learning Hyperledger Fabric, DevOps 
-- 👯 I’m looking to collaborate on Blockchain projects, AR/VR Projects and Open Source
+- 🌱 I’m currently learning DevOps, AI/MLOps,  
+- 👯 I’m looking to collaborate on Cyber Security, Cloud, Mobile Projects and Open Source
 
 <p>
 <img src="https://github.com/lordvins226/lordvins226/blob/master/assets/flutter.svg" width="40" height="40"><img src="https://github.com/lordvins226/lordvins226/blob/master/assets/angular.svg" width="40" height="40"><img src="https://github.com/lordvins226/lordvins226/blob/master/assets/google-arcore.svg" width="40" height="40"><img src="https://github.com/lordvins226/lordvins226/blob/master/assets/solidity.svg" width="40" height="40">
