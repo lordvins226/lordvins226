@@ -6,7 +6,7 @@
 > I want to make people life better using tech.
 > Full stack developer interested
 > in challenges which require designing solutions that can make
-> a significant impact in people lives like blockchain and DApps, AR/VR...
+> a significant impact in people lives.
 
 <!-- ![Kevin's github stats](https://github-readme-stats.lordvins226.vercel.app/api?username=lordvins226&show_icons=true&theme=tokyonight)
 ![Top Langs ](https://github-readme-stats.lordvins226.vercel.app/api/top-langs/?username=lordvins226&layout=compact&theme=tokyonight) -->
