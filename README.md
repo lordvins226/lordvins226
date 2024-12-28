@@ -1,4 +1,3 @@
-![awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 [![Linkedin: Lordvins226](https://img.shields.io/badge/-Lordvins226-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevin-ilboudo/)](https://www.linkedin.com/in/kevin-ilboudo/)
 
 ## Hello, I'm Kevin Wilfried 😄 
