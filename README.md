@@ -2,7 +2,7 @@
 [![Linkedin: Lordvins226](https://img.shields.io/badge/-Lordvins226-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevin-ilboudo/)](https://www.linkedin.com/in/kevin-ilboudo/)
 
 ## Hello, I'm Kevin Wilfried 😄 
-> I am enthusiastic about Cyber Security, Mobile development, Cloud ,Blockchain, AR/VR, AI and Gaming.
+> I am enthusiastic about Cyber Security, Mobile development, Cloud.
 > I want to make people life better using tech.
 > Full stack developer interested
 > in challenges which require designing solutions that can make
