@@ -8,27 +8,4 @@
 > in challenges which require designing solutions that can make
 > a significant impact in people lives.
 
-<!-- ![Kevin's github stats](https://github-readme-stats.lordvins226.vercel.app/api?username=lordvins226&show_icons=true&theme=tokyonight)
-![Top Langs ](https://github-readme-stats.lordvins226.vercel.app/api/top-langs/?username=lordvins226&layout=compact&theme=tokyonight) -->
-
-- 🔭 I’m currently working on Flutter, React, React Native, Cloud, CyberSecurity
-- 🌱 I’m currently learning DevOps, AI/MLOps,  
-- 👯 I’m looking to collaborate on Cyber Security, Cloud, Mobile Projects and Open Source
-
-<p>
-  <img src="https://github.com/lordvins226/lordvins226/blob/master/assets/animation2.gif" width="280" height="280">
-</p>
-
-<!--
-**lordvins226/lordvins226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m currently working on Flutter, React, React Native, Cloud, CyberSec
